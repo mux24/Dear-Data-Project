@@ -1,5 +1,2 @@
 # Dear-Data-Project
-Dear Data University Project
-
-
-The current data is dummy data used to ensure that the processing code works. It will be replaced.
+For my Dear Data university assignment, I decided to use processing to make a small app that showcases various fictional characters from video games that I enjoy playing, books that I have enjoyed reading, and TV Series that I have enjoyed watching.
