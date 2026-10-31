@@ -1,0 +1,47 @@
+Subjects chosen for Dear Data:
+1. Games Played:
+a. Genshin Impact
+i. Scaramouche
+ii. Furina
+iii. Ineffa
+iv. Baizhu
+v. Yelan
+vi. Vesna
+b. Zenless Zone Zero
+i. Burnice White
+ii. Asaba Harumasa
+iii. Trigger
+iv. Sunna
+v. Aria
+vi. Nangong Yu
+2. Books Read:
+a. Tokyo Ghoul
+i. Ken Kaneki
+ii. Touka Kirishima
+iii. Rize Kamishiro
+iv. Hinami Fueguchi
+v. Ayato Kirishima
+vi. Kuzen Yoshimura
+b. Naruto
+i. Naruto Uzumaki
+ii. Shikamaru Nada
+iii. Choji Akimichi
+iv. Neji Hyuga
+v. Kiba Inuzuka
+vi. Rock Lee
+3. TV Series watched:
+a. Transformers: Prime
+i. Optimus Prime
+ii. Bumblebee
+iii. Arcee
+iv. Bulkhead
+v. Ratchet
+vi. Smokescreen
+b. Power Rangers: Wild Force
+i. Cole
+ii. Taylor
+iii. Max
+iv. Alyssa
+v. Danny
+vi. Merrick
+
